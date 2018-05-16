@@ -12,7 +12,7 @@ mirror = gr.material( {0.0, 0.0, 0.0},   {1.0, 1.0, 1.0},	25, 1.3,0.0,0.8)
 
 scene = gr.node('scene')
 
-floor = gr.mesh('floor','plane.obj')
+floor = gr.mesh('floor','./Assets/plane.obj')
 scene:add_child(floor)
 floor:set_material(greyWall)
 floor:rotate('x',10)

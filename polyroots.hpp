@@ -1,6 +1,5 @@
 /* //-------------------------------------------------------------------------
 //
-// CS488 -- Introduction to Computer Graphics
 //
 // polyroots.hpp/polyroots.cpp
 //
@@ -10,8 +9,8 @@
 //
 //------------------------------------------------------------------------- */
 
-#ifndef CS488_POLYROOTS_HPP
-#define CS488_POLYROOTS_HPP
+#ifndef POLYROOTS_HPP
+#define POLYROOTS_HPP
 
 #include <stdlib.h>
 
@@ -19,7 +18,7 @@ size_t quadraticRoots(double A, double B, double C, double roots[2]);
 size_t cubicRoots(double A, double B, double C, double roots[3]);
 size_t quarticRoots(double A, double B, double C, double D, double roots[4]);
 
-#endif /* CS488_POLYROOTS_HPP */
+#endif /* POLYROOTS_HPP */
 
 /*
  * Copyright (c) 1990, Graphics and AI Laboratory, University of Washington

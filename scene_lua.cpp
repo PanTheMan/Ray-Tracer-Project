@@ -1,5 +1,5 @@
 //
-// CS488 - Introduction to Computer Graphics
+// Introduction to Computer Graphics
 //
 // scene_lua.cpp
 //

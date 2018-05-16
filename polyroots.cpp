@@ -1,6 +1,5 @@
 /* //-------------------------------------------------------------------------
 //
-// CS488 -- Introduction to Computer Graphics
 //
 // polyroots.hpp/polyroots.cpp
 //
